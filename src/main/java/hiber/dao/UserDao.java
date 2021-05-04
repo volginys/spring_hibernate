@@ -11,5 +11,4 @@ public interface UserDao {
    List<User> listUsers();
 
    User findByCar(Car car);
-
 }
